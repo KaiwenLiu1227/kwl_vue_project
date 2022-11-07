@@ -1,4 +1,4 @@
-# easypass_vue_project
+# kwl_vue_project
 
 ## Project setup
 ```
